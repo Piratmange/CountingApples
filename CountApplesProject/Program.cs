@@ -1,5 +1,8 @@
 ﻿using System;
     
+
+// Let's see who changes in the program first
+
 class Program
 {
     static void Main()
@@ -9,7 +12,6 @@ class Program
         string personOne = "Martin";
         int martinApples = 7;
 
-        // TODO: Classmate must add his / hers name and how many apples he / she have
         string personTwo = "Magnus"; 
         int MagnusApples = 2;
 
@@ -30,7 +32,5 @@ class Program
         Console.WriteLine("My name is " + personFour + " and I have " + personFourApples + " apples.");
 
         Console.WriteLine("\nTogether we have " + totalApples + " apples. That will be one hell of an apple pie!!!");
-        
-
-    }
+        }
 }
