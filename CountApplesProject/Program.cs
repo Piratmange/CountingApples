@@ -9,8 +9,8 @@ class Program
     {
         Console.WriteLine("HOW MANY APPLES DO WE HAVE TOGETHER?\n");
 
-        string personOne = "Martin";
-        int martinApples = 7;
+        string personOne = "Martin"; // I change the program first :-)
+        int martinApples = 17;
 
         string personTwo = "Magnus"; 
         int MagnusApples = 2;
